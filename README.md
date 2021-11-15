@@ -8,6 +8,7 @@
 | Code pipeline            | DevOps                       |
 | DynamoDB                 | CosmosDB                     |
 | Elastic Beanstalk        | App Service                  |
+| EMR                      | HDInsight                    |
 | GuardDuty                | Advanced Threat Protection   |
 | Lambda                   | Functions                    |
 | Light Sail               | App Service                  |
