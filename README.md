@@ -16,5 +16,6 @@
 | SageMaker                | Machine Learn                |
 | Step Functions           | Logic Apps.                  |
 | Xray                     | Monitor                      |
+| ---                      | Information Protection       |
 | ---                      | Databricks                   |
 | ---                      | GZRS                         |
