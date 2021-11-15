@@ -10,11 +10,12 @@
 | Elastic Beanstalk        | App Service                  |
 | EMR                      | HDInsight                    |
 | GuardDuty                | Advanced Threat Protection   |
+| IAM                      | AAD                          |
 | Lambda                   | Functions                    |
 | Light Sail               | App Service                  |
 | Rekognition              | Cognitive Servic             |
 | SageMaker                | Machine Learn                |
-| Step Functions           | Logic Apps.                  |
+| Step Functions           | Logic Apps                   |
 | Xray                     | Monitor                      |
 | ---                      | Information Protection       |
 | ---                      | Databricks                   |
