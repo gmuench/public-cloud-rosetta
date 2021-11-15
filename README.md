@@ -2,3 +2,4 @@
 | ---------------------- | -----------------------------|
 | Availability Zone      | Availability Zone            |
 | DynamoDB               | CosmosDB                     |
+| ---                    | GZRS.                        |
