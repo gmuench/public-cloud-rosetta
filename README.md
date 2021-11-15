@@ -1,4 +1,4 @@
-| AWS	                 | Azure                            |
+| AWS	                     | Azure                        |
 | ------------------------ | -----------------------------|
 | Application Loadbalancer | Application Gateway          |
 | Availability Zone        | Availability Zone            |
@@ -17,6 +17,7 @@
 | SageMaker                | Machine Learn                |
 | Step Functions           | Logic Apps                   |
 | Xray                     | Monitor                      |
-| ---                      | Information Protection       |
 | ---                      | Databricks                   |
 | ---                      | GZRS                         |
+| ---                      | Information Protection       |
+| ---                      | Locks                        |
