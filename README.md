@@ -7,8 +7,10 @@
 | Code Commit              | DevOps                       |
 | Code pipeline            | DevOps                       |
 | DynamoDB                 | CosmosDB                     |
+| Elastic Beanstalk        | App Service                  |
 | GuardDuty                | Advanced Threat Protection   |
 | Lambda                   | Functions                    |
+| Light Sail               | App Service                  |
 | Rekognition              | Cognitive Servic             |
 | SageMaker                | Machine Learn                |
 | Step Functions           | Logic Apps.                  |
