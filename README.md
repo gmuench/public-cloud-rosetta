@@ -1,6 +1,6 @@
 | AWS	                     | Azure                        | Note                       | 
 | ------------------------ | -----------------------------|----------------------------|
-| Application Load Balancer| Application Gateway          | L7 HTTP/HTTPS/HTTP/2|
+| Application Load Balancer| Application Gateway          | L7 web-centric|
 | Availability Zone        | Availability Zone            | |
 | CloudHSM                 | Key Vault                    | |
 | Cloud Watch              | Monitor                      | |
