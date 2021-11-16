@@ -11,6 +11,7 @@
 | Code Deploy              | DevOps                       | |
 | Code Commit              | DevOps                       | |
 | Code pipeline            | DevOps                       | |
+| Control Tower            | Blueprints                   | landing-zones|
 | Direct Connect           | ExpressRoute                 | dedicated on-prem connection to the cloud|
 | DynamoDB                 | CosmosDB                     | no-sql db, multi-region possible|
 | Elastic Beanstalk        | App Service                  | |
