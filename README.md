@@ -21,7 +21,7 @@
 | Kinesis Analytics        | Data Lake Analytics          | process data in parallel|
 | Lambda                   | Functions                    | Serverless Compute|
 | Light Sail               | App Service                  | |
-| Network Load Balancer    | Network Load Balancer        | L4 TCP/UDP|
+| Network Load Balancer    | Load Balancer        | L4 TCP/UDP|
 | Route 53                 | DNS                          | DNS|
 | Route 53                 | Traffic Manager              | geo routing|
 | Redshift                 | Synapse                      | warehouse |
