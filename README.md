@@ -1,7 +1,7 @@
 | AWS	                     | Azure                        | Note                       | 
 | ------------------------ | -----------------------------|----------------------------|
 | AMI                      | VMI                          | machine images|
-| Application Load Balancer| Application Gateway          | L7 web-centric|
+| Application Load Balancer| Application Gateway          | L7 web-centric. Azure API GW can route traffic to specifics VMs based on URL.|
 | Auto Scaling             | VM Scale Sets                | horizontal scaling|
 | Availability Zone        | Availability Zone            | isolated locations|
 | aws.amazon.com/console/  | portal.azure.com             | portal|
@@ -21,7 +21,7 @@
 | Kinesis Analytics        | Data Lake Analytics          | process data in parallel|
 | Lambda                   | Functions                    | Serverless Compute|
 | Light Sail               | App Service                  | |
-| Network Load Balancer    | Load Balancer        | L4 TCP/UDP|
+| Network Load Balancer    | Load Balancer                | L4 TCP/UDP|
 | Route 53                 | DNS                          | DNS|
 | Route 53                 | Traffic Manager              | geo routing|
 | Redshift                 | Synapse                      | warehouse |
