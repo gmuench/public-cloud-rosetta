@@ -28,4 +28,4 @@
 | ---                      | Databricks                   | |
 | ---                      | GZRS                         | |
 | ---                      | Information Protection       | Protects PDFs/Emails/Offics docs|
-| ---                      | Locks                        | |
+| ---                      | Locks                        | CanNotDelete/ReadOnly|
