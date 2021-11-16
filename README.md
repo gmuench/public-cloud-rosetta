@@ -22,6 +22,7 @@
 | Lambda                   | Functions                    | Serverless Compute|
 | Light Sail               | App Service                  | |
 | Network Load Balancer    | Load Balancer                | L4 TCP/UDP|
+| Region                   | Region                       | Set of datacenters deployed within a latency-defined perimeter and connected through low-latency.|
 | Route 53                 | DNS                          | DNS|
 | Route 53                 | Traffic Manager              | geo routing|
 | Redshift                 | Synapse                      | warehouse |
