@@ -10,7 +10,7 @@
 | Code Deploy              | DevOps                       | |
 | Code Commit              | DevOps                       | |
 | Code pipeline            | DevOps                       | |
-| DynamoDB                 | CosmosDB                     | no-sql db|
+| DynamoDB                 | CosmosDB                     | no-sql db, multi-region possible|
 | Elastic Beanstalk        | App Service                  | |
 | EMR                      | HDInsight                    | Managed Hadoop/Spark|
 | GuardDuty                | Advanced Threat Protection   | Detect and investigate threats vs baseline|
