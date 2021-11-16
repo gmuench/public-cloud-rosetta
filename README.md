@@ -2,7 +2,7 @@
 | ------------------------ | -----------------------------|----------------------------|
 | AMI                      | VMI                          | machine images|
 | Application Load Balancer| Application Gateway          | L7 web-centric|
-| Availability Zone        | Availability Zone            | |
+| Availability Zone        | Availability Zone            | isolated locations|
 | CloudHSM                 | Key Vault                    | |
 | Cloud Watch              | Monitor                      | |
 | Code Deploy              | DevOps                       | |
