@@ -12,7 +12,7 @@
 | DynamoDB                 | CosmosDB                     | |
 | Elastic Beanstalk        | App Service                  | |
 | EMR                      | HDInsight                    | |
-| GuardDuty                | Advanced Threat Protection   | |
+| GuardDuty                | Advanced Threat Protection   | Detect and investigate threats vs baseline|
 | IAM                      | AAD                          | |
 | Key Management Service   | Key Vault                    | |
 | Lambda                   | Functions                    | |
