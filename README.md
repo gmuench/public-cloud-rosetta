@@ -26,6 +26,10 @@
 | Security Group           | Network Security Group       | Instance firewall|
 | Secrets Manager          | Key Vault                    | Store secrets|
 | Step Functions           | Logic Apps                   | visual workflow |
+| Support Basic            | Support Basic                | all customers|
+| Support Developer        | Support Developer            | |
+| Support Business         | Support Standard             | production|
+| Support Enterprise       | Support Professional Direct  | business-critical|
 | Virtual Private Cloud    | Virtual Network              | logically isolated network |
 | Xray                     | Monitor                      | |
 | ---                      | Databricks                   | |
