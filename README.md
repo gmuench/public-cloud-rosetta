@@ -38,6 +38,7 @@
 | Support Enterprise       | Support Professional Direct  | business-critical|
 | Trusted Advisor          | Advisor                      | best-practice reccomendations|
 | Virtual Private Cloud    | Virtual Network              | logically isolated network |
+| WAF                      | Firewall                     |  |
 | Xray                     | Monitor                      | tracing |
 | ---                      | Databricks                   | |
 | ---                      | GZRS                         | |
