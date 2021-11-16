@@ -4,7 +4,7 @@
 | Application Load Balancer| Application Gateway          | L7 web-centric|
 | Availability Zone        | Availability Zone            | isolated locations|
 | aws.amazon.com/console/  | portal.azure.com             | portal|
-| CloudHSM                 | Key Vault                    | hardware security modules. Key Vault also manages, creates, controls keys.|
+| CloudHSM                 | Key Vault                    | hardware security module|
 | Cloud Watch              | Monitor                      | Application logs,metrics,alarms|
 | Cloud Formation          | Resource Manager Templates   | Infrastructure as Code|
 | Code Deploy              | DevOps                       | |
@@ -15,7 +15,7 @@
 | EMR                      | HDInsight                    | Managed Hadoop/Spark|
 | GuardDuty                | Advanced Threat Protection   | Detect and investigate threats vs baseline|
 | IAM                      | AAD                          | |
-| Key Management Service   | Key Vault                    | |
+| Key Management Service   | Key Vault                    | Manage, create, and control keys |
 | Lambda                   | Functions                    | Serverless Compute|
 | Light Sail               | App Service                  | |
 | Network Load Balancer    | Network Load Balancer        | L4 TCP/UDP|
@@ -24,7 +24,7 @@
 | Rekognition              | Cognitive Services           | Rekognition does image analysis only. Cognitive does images, speech, language, decision. |
 | SageMaker                | Machine Learn                | |
 | Security Group           | Network Security Group       | Instance firewall|
-| Secrets Manager          | Key Vault                    | Manage, create, controls keys. Key Vault also can also hardware security module.|
+| Secrets Manager          | Key Vault                    | Store secrets|
 | Step Functions           | Logic Apps                   | visual workflow |
 | Xray                     | Monitor                      | |
 | ---                      | Databricks                   | |
