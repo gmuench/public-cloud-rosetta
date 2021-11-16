@@ -5,6 +5,7 @@
 | Availability Zone        | Availability Zone            | isolated locations|
 | CloudHSM                 | Key Vault                    | |
 | Cloud Watch              | Monitor                      | |
+| Cloud Formation          | Resource Manager Templates   | Infrastructure as Code|
 | Code Deploy              | DevOps                       | |
 | Code Commit              | DevOps                       | |
 | Code pipeline            | DevOps                       | |
