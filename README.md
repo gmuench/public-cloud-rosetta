@@ -27,7 +27,7 @@
 | Route 53                 | Traffic Manager              | geo routing|
 | Redshift                 | Synapse                      | warehouse |
 | Rekognition              | Cognitive Services           | Rekognition does image analysis only. Cognitive does images, speech, language, decision. |
-| SageMaker                | Machine Learn                | |
+| SageMaker                | Machine Learning             | Train, deploy, automate, and manage machine learning models.|
 | Security Group           | Network Security Group       | Instance firewall|
 | Secrets Manager          | Key Vault                    | Store secrets|
 | Step Functions           | Logic Apps                   | visual workflow |
