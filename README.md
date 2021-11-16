@@ -26,6 +26,7 @@
 | Security Group           | Network Security Group       | Instance firewall|
 | Secrets Manager          | Key Vault                    | Store secrets|
 | Step Functions           | Logic Apps                   | visual workflow |
+| Virtual Private Cloud    | Virtual Network              | logically isolated network |
 | Xray                     | Monitor                      | |
 | ---                      | Databricks                   | |
 | ---                      | GZRS                         | |
