@@ -18,7 +18,7 @@
 | Network Load Balancer    | Network Load Balancer        | L4 TCP/UDP|
 | Route 53                 | DNS                          | DNS|
 | Route 53                 | Traffic Manager              | geo routing|
-| Rekognition              | Cognitive Servic             | |
+| Rekognition              | Cognitive Servic             | Rekognition does image analysis only. Cognitive does images, speech, language, decision. |
 | SageMaker                | Machine Learn                | |
 | Step Functions           | Logic Apps                   | visual workflow |
 | Xray                     | Monitor                      | |
