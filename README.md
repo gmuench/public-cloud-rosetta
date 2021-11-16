@@ -20,7 +20,7 @@
 | Route 53                 | Traffic Manager              | geo routing|
 | Rekognition              | Cognitive Servic             | |
 | SageMaker                | Machine Learn                | |
-| Step Functions           | Logic Apps                   | |
+| Step Functions           | Logic Apps                   | visual workflow |
 | Xray                     | Monitor                      | |
 | ---                      | Databricks                   | |
 | ---                      | GZRS                         | |
