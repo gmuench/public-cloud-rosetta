@@ -10,7 +10,7 @@
 | Code Deploy              | DevOps                       | |
 | Code Commit              | DevOps                       | |
 | Code pipeline            | DevOps                       | |
-| DynamoDB                 | CosmosDB                     | |
+| DynamoDB                 | CosmosDB                     | no-sql db|
 | Elastic Beanstalk        | App Service                  | |
 | EMR                      | HDInsight                    | Managed Hadoop/Spark|
 | GuardDuty                | Advanced Threat Protection   | Detect and investigate threats vs baseline|
@@ -23,6 +23,7 @@
 | Route 53                 | Traffic Manager              | geo routing|
 | Rekognition              | Cognitive Services           | Rekognition does image analysis only. Cognitive does images, speech, language, decision. |
 | SageMaker                | Machine Learn                | |
+| Security Group           | Network Security Group       | Instance firewall|
 | Secrets Manager          | Key Vault                    | Manage, create, controls keys. Key Vault also can also hardware security module.|
 | Step Functions           | Logic Apps                   | visual workflow |
 | Xray                     | Monitor                      | |
