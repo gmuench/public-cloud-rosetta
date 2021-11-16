@@ -16,7 +16,7 @@
 | GuardDuty                | Advanced Threat Protection   | Detect and investigate threats vs baseline|
 | IAM                      | AAD                          | |
 | Key Management Service   | Key Vault                    | |
-| Lambda                   | Functions                    | |
+| Lambda                   | Functions                    | Serverless Compute|
 | Light Sail               | App Service                  | |
 | Network Load Balancer    | Network Load Balancer        | L4 TCP/UDP|
 | Route 53                 | DNS                          | DNS|
