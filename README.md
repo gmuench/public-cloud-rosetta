@@ -3,6 +3,7 @@
 | AMI                      | VMI                          | machine images|
 | Application Load Balancer| Application Gateway          | L7 web-centric|
 | Availability Zone        | Availability Zone            | isolated locations|
+| aws.amazon.com/console/  | portal.azure.com             | portal|
 | CloudHSM                 | Key Vault                    | |
 | Cloud Watch              | Monitor                      | |
 | Cloud Formation          | Resource Manager Templates   | Infrastructure as Code|
