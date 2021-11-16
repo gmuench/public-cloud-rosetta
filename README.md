@@ -27,5 +27,5 @@
 | Xray                     | Monitor                      | |
 | ---                      | Databricks                   | |
 | ---                      | GZRS                         | |
-| ---                      | Information Protection       | |
+| ---                      | Information Protection       | Protects PDFs/Emails/Offics docs|
 | ---                      | Locks                        | |
