@@ -15,7 +15,7 @@
 | DynamoDB                 | CosmosDB                     | no-sql db, multi-region possible|
 | Elastic Beanstalk        | App Service                  | |
 | EMR                      | HDInsight                    | Managed Hadoop/Spark|
-| GuardDuty                | Advanced Threat Protection   | Detect and investigate threats vs baseline|
+| GuardDuty                | Defender for identity (Advanced Threat Protection )   | Detect and investigate threats vs baseline|
 | IAM                      | AAD                          | |
 | Key Management Service   | Key Vault                    | Manage, create, and control keys |
 | Kinesis Analytics        | Data Lake Analytics          | process data in parallel|
