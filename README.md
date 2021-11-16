@@ -30,8 +30,9 @@
 | Support Developer        | Support Developer            | |
 | Support Business         | Support Standard             | production|
 | Support Enterprise       | Support Professional Direct  | business-critical|
+| Trusted Advisor          | Advisor                      | best-practice reccomendations|
 | Virtual Private Cloud    | Virtual Network              | logically isolated network |
-| Xray                     | Monitor                      | |
+| Xray                     | Monitor                      | tracing |
 | ---                      | Databricks                   | |
 | ---                      | GZRS                         | |
 | ---                      | Information Protection       | Protects PDFs/Emails/Offics docs|
