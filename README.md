@@ -12,7 +12,7 @@
 | Code pipeline            | DevOps                       | |
 | DynamoDB                 | CosmosDB                     | |
 | Elastic Beanstalk        | App Service                  | |
-| EMR                      | HDInsight                    | |
+| EMR                      | HDInsight                    | Managed Hadoop/Spark|
 | GuardDuty                | Advanced Threat Protection   | Detect and investigate threats vs baseline|
 | IAM                      | AAD                          | |
 | Key Management Service   | Key Vault                    | |
