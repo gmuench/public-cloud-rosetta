@@ -5,7 +5,7 @@
 | Availability Zone        | Availability Zone            | isolated locations|
 | aws.amazon.com/console/  | portal.azure.com             | portal|
 | CloudHSM                 | Key Vault                    | |
-| Cloud Watch              | Monitor                      | |
+| Cloud Watch              | Monitor                      | Application logs,metrics,alarms|
 | Cloud Formation          | Resource Manager Templates   | Infrastructure as Code|
 | Code Deploy              | DevOps                       | |
 | Code Commit              | DevOps                       | |
