@@ -1,5 +1,6 @@
 | AWS	                     | Azure                        | Note                       | 
 | ------------------------ | -----------------------------|----------------------------|
+| AMI                      | VMI                          | machine images|
 | Application Load Balancer| Application Gateway          | L7 web-centric|
 | Availability Zone        | Availability Zone            | |
 | CloudHSM                 | Key Vault                    | |
