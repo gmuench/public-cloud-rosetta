@@ -36,8 +36,9 @@
 | Step Functions           | Logic Apps                   | visual workflow |
 | Support Basic            | Support Basic                | all customers|
 | Support Developer        | Support Developer            | |
-| Support Business         | Support Standard             | production|
-| Support Enterprise       | Support Professional Direct  | business-critical|
+| Support Business         | Support Standard             | |
+| Support Enterprise       | Support Professional Direct  | |
+| ---                      | Support Enterprise           | |
 | Trusted Advisor          | Advisor                      | best-practice reccomendations|
 | Virtual Private Cloud    | Virtual Network              | logically isolated network |
 | WAF                      | Firewall                     |  |
