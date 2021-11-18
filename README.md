@@ -38,6 +38,7 @@
 | Support Developer        | Support Developer            | |
 | Support Business         | Support Standard             | |
 | Support Enterprise       | Support Professional Direct  | |
+| SQS                      | Service Bus                  | |
 | ---                      | Support Enterprise           | |
 | Trusted Advisor          | Advisor                      | best-practice reccomendations|
 | Virtual Private Cloud    | Virtual Network              | logically isolated network |
