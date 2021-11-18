@@ -21,6 +21,7 @@
 | GuardDuty                | Defender for identity (Advanced Threat Protection )   | Detect and investigate threats vs baseline|
 | IAM                      | AAD                          | |
 | Key Management Service   | Key Vault                    | Manage, create, and control keys |
+| Kinesis                  | Event Hub                    | ingestion|
 | Kinesis Analytics        | Data Lake Analytics          | process data in parallel|
 | Lambda                   | Functions                    | Serverless Compute|
 | Light Sail               | App Service                  | |
