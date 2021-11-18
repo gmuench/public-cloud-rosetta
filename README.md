@@ -6,8 +6,9 @@
 | Availability Zone        | Availability Zone            | isolated locations|
 | aws.amazon.com/console/  | portal.azure.com             | portal|
 | CloudHSM                 | Key Vault                    | hardware security module|
-| Cloud Watch              | Monitor                      | Application logs,metrics,alarms|
 | Cloud Formation          | Resource Manager Templates   | Infrastructure as Code|
+| Cloud Trail              | Activity Log                 | |
+| Cloud Watch              | Monitor                      | Application logs,metrics,alarms|
 | Code Deploy              | DevOps                       | |
 | Code Commit              | DevOps                       | |
 | Code pipeline            | DevOps                       | |
