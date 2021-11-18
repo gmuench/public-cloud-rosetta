@@ -3,6 +3,7 @@
 | AMI                      | VMI                          | machine images|
 | Application Load Balancer| Application Gateway          | L7 web-centric. Azure API GW can route traffic to specifics VMs based on URL.|
 | Auto Scaling             | VM Scale Sets                | horizontal scaling|
+| Artifact                 | Service Trust Portal         | compliance reports and agreements|
 | Availability Zone        | Availability Zone            | isolated locations|
 | aws.amazon.com/console/  | portal.azure.com             | portal|
 | CloudHSM                 | Key Vault                    | hardware security module|
