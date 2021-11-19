@@ -16,6 +16,7 @@
 | Control Tower            | Blueprints                   | landing-zones|
 | Direct Connect           | ExpressRoute                 | dedicated on-prem connection to the cloud|
 | DynamoDB                 | CosmosDB                     | no-sql db, multi-region possible|
+| ECR                      | ACR                          | container registry|
 | Elastic Beanstalk        | App Service                  | pass |
 | EKS                      | AKS                          | Kubernetes|
 | EMR                      | HDInsight                    | Open-source, managed, analytics service in the cloud. Hadoop/Spark|
