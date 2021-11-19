@@ -16,7 +16,7 @@
 | Control Tower            | Blueprints                   | landing-zones|
 | Direct Connect           | ExpressRoute                 | dedicated on-prem connection to the cloud|
 | DynamoDB                 | CosmosDB                     | no-sql db, multi-region possible|
-| Elastic Beanstalk        | App Service                  | |
+| Elastic Beanstalk        | App Service                  | pass |
 | EMR                      | HDInsight                    | Open-source, managed, analytics service in the cloud. Hadoop/Spark|
 | GuardDuty                | Defender for identity (Advanced Threat Protection )   | Detect and investigate threats vs baseline|
 | IAM                      | AAD                          | |
