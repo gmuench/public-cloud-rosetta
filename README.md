@@ -1,7 +1,7 @@
 | AWS	                     | Azure                        | Note                       | 
 | ------------------------ | -----------------------------|----------------------------|
 | AMI                      | VMI                          | machine images|
-| Application Load Balancer| Application Gateway          | L7 web-centric. Azure API GW can route traffic to specifics VMs based on URL.|
+| Application Load Balancer| Application Gateway          | L7 lb routing. Azure App GW comes with a WAF.|
 | Auto Scaling             | VM Scale Sets                | horizontal scaling|
 | Artifact                 | Service Trust Portal         | compliance reports and agreements|
 | Availability Zone        | Availability Zone            | isolated locations|
