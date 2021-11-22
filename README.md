@@ -36,7 +36,7 @@
 | Rekognition              | Cognitive Services           | Rekognition does image analysis only. Cognitive does images, speech, language, decision. |
 | S3                       | Blob Storage                 | |
 | SageMaker                | Machine Learning             | Train, deploy, automate, and manage machine learning models.|
-| Security Group           | Network Security Group       | Instance firewall|
+| Security Group           | Network Security Group       | Azure NSG is L3/L4 |
 | Secrets Manager          | Key Vault                    | Store secrets|
 | Step Functions           | Logic Apps                   | visual workflow |
 | Support Basic            | Support Basic                | all customers|
@@ -48,7 +48,7 @@
 | ---                      | Support Enterprise           | |
 | Trusted Advisor          | Advisor                      | best-practice reccomendations|
 | Virtual Private Cloud    | Virtual Network              | logically isolated network |
-| WAF                      | Firewall                     |  |
+| WAF                      | Firewall                     | Azure firewall is L4/L7 |
 | Workspaces               | Virtual Desktop              |  |
 | Xray                     | Monitor                      | tracing |
 | ---                      | Databricks                   | |
