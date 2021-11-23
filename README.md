@@ -55,4 +55,5 @@
 | ---                      | GZRS                         | |
 | ---                      | Information Protection       | Protects PDFs/Emails/Offics docs|
 | ---                      | Locks                        | CanNotDelete/ReadOnly|
+| ---                      | Management Gruops            | Create a hierarchy of subscriptions.  |
 | ---                      | WebJob                       | |
