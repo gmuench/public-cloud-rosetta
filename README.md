@@ -28,6 +28,7 @@
 | Lambda                   | Functions                    | Serverless Compute|
 | Light Sail               | App Service                  | |
 | Network Load Balancer    | Load Balancer                | L4 TCP/UDP|
+| Outposts                 | Stacks                       | |
 | Region                   | Region                       | AWS at least 2 availability zones. Azure at least 3 zones.|
 | Resource Group           | Resource Group               | Organize, vms, storage, network devices.|
 | Route 53                 | DNS                          | DNS|
