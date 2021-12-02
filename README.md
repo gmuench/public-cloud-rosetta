@@ -39,6 +39,7 @@
 | SageMaker                | Machine Learning             | Train, deploy, automate, and manage machine learning models.|
 | Security Group           | Network Security Group       | Azure NSG is L3/L4 |
 | Secrets Manager          | Key Vault                    | Store secrets|
+| Service Health Dashboard | Help and Support > Service Health | |
 | Step Functions           | Logic Apps                   | visual workflow |
 | Support Basic            | Support Basic                | all customers|
 | Support Developer        | Support Developer            | |
